@@ -38,6 +38,7 @@ wwwroot/lib/
 ########################################
 .vscode/
 .idea/
+.vs/
 *.user
 *.suo
 *.userosscache
